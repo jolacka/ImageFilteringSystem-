@@ -1,0 +1,2 @@
+# ImageFilteringSystem-
+Image filtering application that uses a 2D array called a convolution kernel to manipulate the image pixels to produce a filtered effect. The resulting filtered image is saved as Out.png and it's location is displayed on screen. The filtered image is also displayed to the user in a seperate pop up window. To proceed click the cmd prompt window to make it the active again and choose the next option. (Out.png is overwritten for each filter operation)
